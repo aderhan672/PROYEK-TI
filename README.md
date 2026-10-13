@@ -1,4 +1,4 @@
-# Belajar TI
+# TUGAS KULIAH DAN HASIL KERJA
 
 Perjalanan belajar Teknik Informatika + proyek eksperimen.
 

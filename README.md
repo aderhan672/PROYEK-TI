@@ -1,4 +1,4 @@
-# TUGAS KULIAH DAN HASIL KERJA
+# INFORMASI
 
 Perjalanan belajar Teknik Informatika + proyek eksperimen.
 

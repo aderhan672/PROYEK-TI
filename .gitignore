@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.db-wal
+*.db-shm
+
+# Build
+build/
+dist/
+*.spec
+
+# Sensitive
+.env
+secrets.txt
+
+# File besar
+*.exe
+*.zip
+*.rar
